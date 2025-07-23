@@ -1,4 +1,4 @@
-![badge](https://github.com/lackingworth/Go-Notely/actions/workflows/ci.yml/badge.svg)
+![badge](https://github.com/lackingworth/Go-Notely/actions/workflows/ci.yml/badge.svg) ![badge](https://github.com/lackingworth/Go-Notely/actions/workflows/cd.yml/badge.svg)
 # Notely
 
 ## Local Development
