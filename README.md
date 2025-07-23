@@ -1,3 +1,4 @@
+![badge](https://github.com/lackingworth/Go-Notely/actions/workflows/ci.yml/badge.svg)
 # Notely
 
 ## Local Development
@@ -17,3 +18,5 @@ go build -o notely && ./notely
 ```
 
 *This starts the server in non-database mode.* It will serve a simple webpage at `http://localhost:8080`.
+
+*Work in progress*
