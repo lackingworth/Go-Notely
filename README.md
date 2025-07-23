@@ -1,3 +1,4 @@
+![badge](https://github.com/lackingworth/Go-Notely/actions/workflows/ci.yml/badge.svg)
 # Notely
 
 ## Local Development
